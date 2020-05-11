@@ -1,0 +1,6 @@
+{
+  "port": 4000,
+  "jwtSecretKey": "kirya test mern app",
+  "mongoURI": "mongodb+srv://kirill:admin@mern-gbieh.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:4000"
+}
